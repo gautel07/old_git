@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="" />
+    <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht contact information/contact information.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht opleidingsaanbod/opleidingsaanbod.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage_uitbreiding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,13 +17,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Fl0D4Z3grQLQbExTbUsfgILCYn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,11 +41,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/gaute/Documents/Webdevelopment 1/repositorie/GauteLauwers.github.io/Labo 3/Opdracht peronal homepage",
+    "list.type.of.created.stylesheet": "CSS",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht contact information" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io" />
     </key>
   </component>
@@ -45,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665051242126</updated>
       <workItem from="1665051243629" duration="251000" />
+      <workItem from="1665506639342" duration="6996000" />
     </task>
     <servers />
   </component>
