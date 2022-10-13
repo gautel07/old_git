@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht contact information/contact information.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht opleidingsaanbod/opleidingsaanbod.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage_uitbreiding.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage_uitbreiding.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 3/Opdracht peronal homepage/Personal homepage_uitbreiding.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +32,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gaute/Documents/Webdevelopment 1/repositorie/GauteLauwers.github.io/Labo 3/Opdracht peronal homepage",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gaute/Documents/Webdevelopment 1/repositorie/Exemples-labo/labo4&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
@@ -66,6 +63,11 @@
       <updated>1665051242126</updated>
       <workItem from="1665051243629" duration="251000" />
       <workItem from="1665506639342" duration="6996000" />
+      <workItem from="1665654099308" duration="55000" />
+      <workItem from="1665654194211" duration="17000" />
+      <workItem from="1665654225715" duration="29000" />
+      <workItem from="1665654325571" duration="393000" />
+      <workItem from="1665654805629" duration="1217000" />
     </task>
     <servers />
   </component>
