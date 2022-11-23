@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -52,11 +50,11 @@
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\flexbox" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\grid" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 7\opdracht nature" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 4" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 6\Opdracht 3" />
-      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 6\Opdracht 1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -94,6 +92,7 @@
       <workItem from="1668622428202" duration="2026000" />
       <workItem from="1669241813249" duration="2447000" />
       <workItem from="1669245009418" duration="17000" />
+      <workItem from="1669245123564" duration="46000" />
     </task>
     <servers />
   </component>
