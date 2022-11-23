@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 2/opdracht 2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 2/opdracht 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 3/opdracht 3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 3/opdracht 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/kalender.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/kalender.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/opdracht nature.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/AJR.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Foto mezelf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Hobby's.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Likes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Personal homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Personal homepage_uitbreiding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/homepage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/real steel.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/opdracht flexbox/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -111,6 +93,7 @@
       <workItem from="1668353241376" duration="6395000" />
       <workItem from="1668622428202" duration="2026000" />
       <workItem from="1669241813249" duration="2447000" />
+      <workItem from="1669245009418" duration="17000" />
     </task>
     <servers />
   </component>
