@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 2/Inhoudlabo2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 3/inhoudlabo3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 4/inhoudlabo4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 5/inhoudlabo5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 1/Opdracht 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 1/distributors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 1/opdracht 1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 1/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 3/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 3/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 4/opdracht4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 4/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 5/opdracht 5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 5/opdracht 5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/Opdracht 6/opdracht 6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 6/inhoudlabo6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inhoudstafel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 2/opdracht 2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 2/opdracht 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 3/opdracht 3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht 3/opdracht 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht kalender/kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht nature/opdracht nature.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/AJR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Foto mezelf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Hobby's.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Likes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Personal homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/Personal homepage_uitbreiding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/homepage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 7/opdracht personal homepage/Opdracht peronal homepage/real steel.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 4/Picture/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 1/Inhoudlabo1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +33,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grid/frontendmentorprofilecardBeginSituatie" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fl0D4Z3grQLQbExTbUsfgILCYn" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -56,21 +58,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gaute/Documents/Webdevelopment 1/repositorie/Exemples-labo/labo4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gaute/Documents/Webdevelopment 1/repositorie/GauteLauwers.github.io/Labo 7&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 7" />
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 7\opdracht personal homepage" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\grid" />
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 7\opdracht nature" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 4" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 6\Opdracht 3" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 6\Opdracht 1" />
-      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
-      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht contact information" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,6 +105,12 @@
       <workItem from="1666897130125" duration="1842000" />
       <workItem from="1667660949995" duration="16000" />
       <workItem from="1667838437653" duration="2596000" />
+      <workItem from="1668071398139" duration="40000" />
+      <workItem from="1668073775524" duration="5503000" />
+      <workItem from="1668343640522" duration="605000" />
+      <workItem from="1668353241376" duration="6395000" />
+      <workItem from="1668622428202" duration="2026000" />
+      <workItem from="1669241813249" duration="2447000" />
     </task>
     <servers />
   </component>
