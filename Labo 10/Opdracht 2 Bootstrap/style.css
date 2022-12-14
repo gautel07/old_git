@@ -1,0 +1,36 @@
+[class*="col"] > div {
+    min-height: 200px;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+[class*="col"]:nth-child(odd) > div {
+    background: white;
+}
+
+[class*="col"]:nth-child(even) > div {
+    background: lightslategrey;
+}
+@media screen and (max-width: 768px) {
+    figure{
+        display: inline-block;
+        width: 100%;
+        box-sizing: border-box;
+
+    }
+}
+@media screen and (min-width: 768px) {
+    div {
+        display: inline-block;
+        width: 48%;
+        box-sizing: border-box;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    figure {
+        display: inline-block;
+        width: 25%;
+        box-sizing: border-box;
+    }
+}
