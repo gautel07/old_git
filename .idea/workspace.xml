@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Labo 10/Composition A/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 10/Composition A/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 10/Opdracht 2 Bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 10/Opdracht 2 Bootstrap/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 10/Opdracht 2 Bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo 10/Opdracht 2 Bootstrap/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 9/opdracht airbus/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 9/opdracht airbus/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
@@ -40,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/gaute/Documents/Webdevelopment 1/repositorie/GauteLauwers.github.io/Labo 10/Opdracht 2 Bootstrap",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gaute/Documents/Webdevelopment 1/repositorie/GauteLauwers.github.io/Labo 10/Opdracht 2 Bootstrap&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 10\Opdracht 2 Bootstrap" />
@@ -59,11 +52,11 @@
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 3\Opdracht peronal homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 11" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 10" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 9" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 9\positioneringen" />
       <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 9\opdracht airbus" />
-      <recent name="C:\Users\gaute\Documents\Webdevelopment 1\repositorie\GauteLauwers.github.io\Labo 8\css deel 4 positionering" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -112,6 +105,8 @@
       <workItem from="1670266777984" duration="2973000" />
       <workItem from="1670493675552" duration="507000" />
       <workItem from="1671045299216" duration="2498000" />
+      <workItem from="1671700805961" duration="1745000" />
+      <workItem from="1673871804006" duration="696000" />
     </task>
     <servers />
   </component>
