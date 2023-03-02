@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50a53022-d589-434b-9da8-01ef3f1b3eb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox/frontendmentorprofilecardBeginSituatie/style.css" afterDir="false" />
     </list>
@@ -111,6 +110,7 @@
       <workItem from="1674028410274" duration="66000" />
       <workItem from="1674033238490" duration="72000" />
       <workItem from="1676375519434" duration="67000" />
+      <workItem from="1677762215495" duration="99000" />
     </task>
     <servers />
   </component>
